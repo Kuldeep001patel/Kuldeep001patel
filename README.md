@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Kakadiya</h1>
+<h1 align="center">Hi 👋, I'm Kuldeep Patel</h1>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
@@ -17,9 +17,6 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 ###
-
-
-<img src="./doom X ironman.gif" alt="Dr.Doom X Ironman" height="200px" align="right">
 
 ###
 <br />
